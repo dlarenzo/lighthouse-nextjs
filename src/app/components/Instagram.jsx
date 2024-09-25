@@ -1,10 +1,10 @@
 import React from "react";
-import IgImg1 from "../../../public/images/igImg1.jpeg";
-import IgImg2 from "../../../public/images/igImg2.jpeg";
-import IgImg3 from "../../../public/images/igImg3.jpeg";
-import IgImg4 from "../../../public/images/igImg4.jpeg";
-import IgImg5 from "../../../public/images/igImg5.jpeg";
-import IgImg6 from "../../../public/images/igImg6.jpeg";
+import IgImg1 from "../../../public/images/IgImg1.jpeg";
+import IgImg2 from "../../../public/images/IgImg2.jpeg";
+import IgImg3 from "../../../public/images/IgImg3.jpeg";
+import IgImg4 from "../../../public/images/IgImg4.jpeg";
+import IgImg5 from "../../../public/images/IgImg5.jpeg";
+import IgImg6 from "../../../public/images/IgImg6.jpeg";
 
 import InstagramImg from "./InstagramImg";
 
